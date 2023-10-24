@@ -6,6 +6,9 @@ This is a simple HTML gallery webpage that showcases 15 images. Each image is pr
 
 To view this gallery locally, simply open the `index.html` file in your web browser.
 
+## Deployment
+https://farhan-gada.github.io/My_Gallery_Project/
+
 ## Usage
 
 You can use this project as a starting point for your own image gallery. Add or replace images and modify the styling to create a personalized gallery.
