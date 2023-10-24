@@ -10,9 +10,6 @@ To view this gallery locally, simply open the `index.html` file in your web brow
 
 You can use this project as a starting point for your own image gallery. Add or replace images and modify the styling to create a personalized gallery.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
